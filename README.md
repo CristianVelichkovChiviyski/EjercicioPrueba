@@ -1,7 +1,7 @@
 # EjercicioPrueba
 
-##Hola
-###Hola
+## Hola
+### Hola
 -----------
 Lista desordenada
 - Item 1
@@ -29,4 +29,12 @@ bloque de codigo
 {código}
 ``
 >Estamos llegando al fin del documetno markdown
-Este es el pie de página[^1]
+----------
+[x] Baloncesto
+[ ] Futbol
+[ ] Volley
+----------
+[esto es un enlace](https://gregoriofer.com/)
+![foto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fcecgregoriofer%2F&psig=AOvVaw1I_qRAvqRVpvjrBPcTY3lU&ust=1763422838089000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjjop7s95ADFQAAAAAdAAAAABAE)
+---------
+[^1]: Este es el pie de página
