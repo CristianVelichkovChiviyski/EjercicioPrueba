@@ -53,4 +53,4 @@ Corregimos tabla
 - [ ] Futbol
 - [ ] Voley
 Este es el pie de página[^1]
->>>>>>> origin/RamaDePrueba
+
