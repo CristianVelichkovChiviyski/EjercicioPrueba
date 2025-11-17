@@ -29,4 +29,16 @@ bloque de codigo
 {código}
 ``
 >Estamos llegando al fin del documetno markdown
+
+------
+Lista de definiciones
+item1
+: Descripción 1
+item2
+: Descripción 2
+--------
+Corregimos tabla
+- [x] Baloncesto2
+- [ ] Futbol
+- [ ] Voley
 Este es el pie de página[^1]
