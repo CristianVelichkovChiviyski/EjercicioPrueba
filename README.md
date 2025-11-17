@@ -29,7 +29,7 @@ bloque de codigo
 {código}
 ``
 >Estamos llegando al fin del documetno markdown
-<<<<<<< HEAD
+
 ----------
 [x] Baloncesto
 [ ] Futbol
@@ -38,14 +38,16 @@ bloque de codigo
 [esto es un enlace](https://gregoriofer.com/)
 ![foto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fcecgregoriofer%2F&psig=AOvVaw1I_qRAvqRVpvjrBPcTY3lU&ust=1763422838089000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjjop7s95ADFQAAAAAdAAAAABAE)
 ---------
-[^1]: Este es el pie de página
-=======
+
+`` bloque de codigo
+de 3
+parrafps ``
 
 ------
 Lista de definiciones
-item1
+ item1
 : Descripción 1
-item2
+ item2
 : Descripción 2
 --------
 Corregimos tabla
